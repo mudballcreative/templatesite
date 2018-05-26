@@ -1,6 +1,6 @@
 # templatesite
 
-##a place for my stuff
+## a place for my stuff
 
 This is where I'm sticking crap.
 
