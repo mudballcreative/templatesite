@@ -10,6 +10,6 @@ This is where I'm sticking crap.
 
 >You're never too old to run away and join the circus.
 
--banana
--apple
--carrot
+- banana
+- apple
+- carrot
